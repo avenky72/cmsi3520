@@ -1,1 +1,1 @@
-# cmsi3520
+source env/bin/activate# cmsi3520
